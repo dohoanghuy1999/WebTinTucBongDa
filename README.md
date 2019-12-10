@@ -12,8 +12,9 @@
 
 + màu nền 2:
 ![](rm6.PNG)<br>
-+ 
++ phần đăng ký và danh sách:
 ![](rm7.PNG)<br>
-+ Danh sách:
++ đăng ký thành công:
 ![](rm9.PNG)<br>
++đăng ký thất bại
 <h2>Xin Cảm Ơn<h2/>
