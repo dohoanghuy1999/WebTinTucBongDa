@@ -17,4 +17,5 @@
 + đăng ký thành công:
 ![](rm9.PNG)<br>
 +đăng ký thất bại
+![](rm10.PNG)<br>
 <h2>Xin Cảm Ơn<h2/>
