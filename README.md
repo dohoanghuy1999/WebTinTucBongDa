@@ -10,8 +10,9 @@
 ![](rm4.PNG)<br>
 ![](rm5.PNG)<br>
 
-+ Đăng kí:
++ màu nền 2:
 ![](rm6.PNG)<br>
++ 
 ![](rm7.PNG)<br>
 + Danh sách:
 ![](rm9.PNG)<br>
